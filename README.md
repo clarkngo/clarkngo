@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @clarkngo
-- 👀 I’m interested in ... Spring, Spring Batch, Elasticsearch, JAX-RS, React
-- 🌱 I’m currently learning ... React, Python Flask
+- 👀 Computer Vision, Machine Learning, Large Language Models, Frontend, Backend, CI/CD
 - 💞️ I’m looking to collaborate on ... Cool fun projects!
 - 📫 How to reach me ... 
 
